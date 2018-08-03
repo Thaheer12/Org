@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+main
 add()
 {
 	int a,b,c;
