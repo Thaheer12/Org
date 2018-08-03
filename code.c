@@ -8,7 +8,7 @@ add()
 	a=10;
 	b=20;
 	c=a+b;
-	
+	print f
 	printf("the addition of two numbers is" c);
 	
 }
