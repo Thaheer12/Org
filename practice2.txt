@@ -1,1 +1,2 @@
 This is to by pass commit
+we want to direct commit by -am command
